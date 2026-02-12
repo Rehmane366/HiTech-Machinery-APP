@@ -1,0 +1,8 @@
+{
+  "name": "HI TECH MACHINERY SUITE",
+  "description": "Enterprise Grade ERP, Field Service Management, and Sales Intelligence Platform.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
